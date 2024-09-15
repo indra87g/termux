@@ -1,0 +1,11 @@
+[inpmc.fm.view-file]
+0=ssh_host_ed25519_key.pub
+
+[cmdline]
+0=
+
+[Dir Hist New Right Panel]
+0=/data/data/com.termux/files/home
+
+[Dir Hist New Left Panel]
+0=/data/data/com.termux/files/home

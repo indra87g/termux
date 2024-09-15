@@ -2,5 +2,6 @@
 zee/
 downloads/
 .npm/
+.ssh/
 .cache/
 storage/
